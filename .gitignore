@@ -1,0 +1,9 @@
+
+# Não incluir modulos Node
+node_modules/
+
+# Não incluir arquivo com as variáveis de ambiente
+src/.env 
+
+# Não incluir resultados de testes
+coverage/

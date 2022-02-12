@@ -1,0 +1,25 @@
+{
+  "name": "api-pino",
+  "version": "1.0.0",
+  "description": "API requisitada",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Yerik K.",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "joi": "^17.6.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.7",
+    "nodemailer": "^6.7.2"
+  }
+}
