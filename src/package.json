@@ -4,7 +4,8 @@
   "description": "API requisitada",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "server": "nodemon index.js"
   },
   "author": "Yerik K.",
   "license": "ISC",
