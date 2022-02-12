@@ -12,6 +12,9 @@ O arquivo `database_config.sql` contém o código para a criação do banco de d
 
 ## Código Fonte
 
+### Quickstart
+Para utilizar o código, `npm install` vai instalar as dependencias apropriadas. `npm run test` irá rodar Jest com os testes unitários de integração. `npm run server` irá inicializar o server e o watcher (que automaticamente reinicia o servidor se houver mudanças em algum arquivo)
+
 ### Index.js
 O arquivo `index.js` possui o código de inicialização do servidor
 
